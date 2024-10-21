@@ -1,5 +1,8 @@
 # User-specific files
 **/.vscode/
+*.bak
+*.sh
+*.bat
 *.ps1
 
 # Prerequisites
